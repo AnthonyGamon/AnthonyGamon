@@ -11,4 +11,4 @@ Once I graduated from the bootcamp I will have learned the following languages a
 
 
 
-My email address is anthonygamon@icloud.com and you can view my portfolio at https://anthonygamon.github.io/Portfolio/.
+My email address is anthonygamon@icloud.com and you can view my portfolio at https://anthonygamon.github.io/.
