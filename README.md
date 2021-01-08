@@ -22,8 +22,6 @@ With learning how expensive they could be I started wondering what it would take
 
 After all of that research and thinking one day on a whim I submitted a couple of requests to get bootcamp information and just a few days later I was enrolled and started my pre-work for the bootcamp.
 
-My email address is anthonygamon@icloud.com and you can view my portfolio at https://anthonygamon.github.io/Portfolio/.
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonygamon&show_icons=true&locale=en&layout=compact" alt="anthonygamon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonygamon&show_icons=true&locale=en" alt="anthonygamon" /></p>
