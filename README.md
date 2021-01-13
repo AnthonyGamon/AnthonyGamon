@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anthony Gamon and im based out of Wichita Kansas</h1>
+<h1 align="center">Hi 👋, I'm Anthony and im based out of Wichita Kansas</h1>
 <h3 align="center">Full Stack Web Developer!</h3>
 
 - Take a look at my portfolio here -- [https://anthonygamon.github.io/Portfolio/](https://anthonygamon.github.io/Portfolio/)
