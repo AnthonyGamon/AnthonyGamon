@@ -6,7 +6,7 @@
 - You can reach me at -- **Anthonygamon@icloud.com**
 
 <h3 align="left">A little about me:</h3>
-I always thought that I  would follow my love for social media and sneakers and pursue a career in some form of marketing with a sneaker company. I’ve had the opportunity to work with some amazing brands and started to get a good amount of followers on instagram.
+I always thought that I  would follow my love for social media and sneakers and pursue a career in some form of marketing with a sneaker company. I’ve had the opportunity to work with some amazing brands and started to get a good amount of followers on instagram. 
 
 Eager to build up my own social media platforms through content creation, I started looking into purchasing a bot to help make purchasing sneakers and streetwear easier. I learned very quickly that some of these bots can be pretty expensive.
 
