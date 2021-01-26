@@ -6,13 +6,13 @@
 - You can reach me at -- **Anthonygamon@icloud.com**
 
 <h3 align="left">A little about me:</h3>
-I always thought that I  would follow my love for social media and sneakers and pursue a career in some form of marketing with a sneaker company. I’ve had the opportunity to work with some amazing brands and started to get a good amount of followers on instagram. 
+<p>I always thought that I  would follow my love for social media and sneakers and pursue a career in some form of marketing with a sneaker company. I’ve had the opportunity to work with some amazing brands and started to get a good amount of followers on instagram. </p>
 
-Eager to build up my own social media platforms through content creation, I started looking into purchasing a bot to help make purchasing sneakers and streetwear easier. I learned very quickly that some of these bots can be pretty expensive.
+<p>Eager to build up my own social media platforms through content creation, I started looking into purchasing a bot to help make purchasing sneakers and streetwear easier. I learned very quickly that some of these bots can be pretty expensive.</p>
 
-Learning how expensive they could be, I started wondering what it would take to actually build a bot, how hard it would be, and if this was something I thought I could do. After a few months of research and tutorials, I started getting more and more interested in what coding was and how I could follow that career path.
+<p>Learning how expensive they could be, I started wondering what it would take to actually build a bot, how hard it would be, and if this was something I thought I could do. After a few months of research and tutorials, I started getting more and more interested in what coding was and how I could follow that career path.</p>
 
-After conducting research, I submitted a couple of requests to receive Full Stack Development bootcamp information. I was enrolled just a few days later and started my pre-work for the KU bootcamp.
+<p>After conducting research, I submitted a couple of requests to receive Full Stack Development bootcamp information. I was enrolled just a few days later and started my pre-work for the KU bootcamp.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
