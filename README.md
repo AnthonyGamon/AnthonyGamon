@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony and im from Wichita, Kansas</h1>
 <h3 align="center">Full Stack Web Developer!</h3>
 
-- Take a look at my portfolio here -- [anthonygamon.github.io/](anthonygamon.github.io/)
+- Take a look at my portfolio here -- [https://anthonygamon.github.io/](https://anthonygamon.github.io/)
 
 - You can reach me at -- **Anthonygamon@icloud.com**
 
