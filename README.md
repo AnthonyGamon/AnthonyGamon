@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony and im from Wichita, Kansas</h1>
 <h3 align="center">Full Stack Web Developer!</h3>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 - Take a look at my portfolio here -- [https://anthonygamon.github.io/](https://anthonygamon.github.io/)
 
